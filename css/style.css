@@ -1,0 +1,30 @@
+h2 {
+  font-family: oleo script;
+}
+
+.card-title {
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+}
+
+.card-text {
+  font-family: Montserrat, sans-serif;
+}
+
+  footer {
+    height: 500px;
+    background-color: #464646;
+  }
+
+  .fa-brands {
+    color: #D2D6D9 ;
+  }
+
+  .footer-text {
+    color: #D2D6D9;
+    font-family: Montserrat, sans-serif;
+  }
+
+  .border-dashed {
+    border-style: dashed;
+  }
